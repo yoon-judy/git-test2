@@ -1,3 +1,3 @@
 # git-test2
-## hello world
+## Hello world
 git-test2
